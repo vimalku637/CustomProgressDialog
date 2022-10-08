@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CapitalTrustProjects/CustomProgressDialog/app/src/main/res/drawable/custom_loading.xml" value="0.1445" />
+        <entry key="..\:/CapitalTrustProjects/CustomProgressDialog/app/src/main/res/drawable/dialog_background.xml" value="0.1575" />
+        <entry key="..\:/CapitalTrustProjects/CustomProgressDialog/app/src/main/res/layout/activity_main.xml" value="0.14375" />
+        <entry key="..\:/CapitalTrustProjects/CustomProgressDialog/app/src/main/res/layout/progress_dailog.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
